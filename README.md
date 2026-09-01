@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0283-move-zeroes) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/1189-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
