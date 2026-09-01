@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0283-move-zeroes) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/subhraza-supratick/Leet_Code_Probs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
